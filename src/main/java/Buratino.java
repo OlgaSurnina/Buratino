@@ -1,5 +1,6 @@
 public class Buratino {
 
+
     public static void main(String[] args) {
 
         byte minuendApples = 6;
