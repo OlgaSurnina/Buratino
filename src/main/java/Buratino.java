@@ -4,11 +4,11 @@ public class Buratino {
 
         byte minuendApples = 6;
 
-        System.out.println("У Буратино было "+ minuendApples + " яблок");
+        System.out.println("У Буратино было " + minuendApples + " яблок");
 
         byte subtrahendApples = 1;
 
-        System.out.println("Барабас отобрал у Буратино "+subtrahendApples);
+        System.out.println("Барабас отобрал у Буратино " + subtrahendApples);
 
         int residualApples = (minuendApples - subtrahendApples);
 
